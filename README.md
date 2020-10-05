@@ -4,7 +4,7 @@ Cours d'Analyse Numérique pour la Licence 2A, 2020-2021
 
 ## Contents
 
-[1. Chapitre 1](https://nbviewer.jupyter.org/github/UM6P/Al-Khwarizmi-Numerical-Analysis-2020-2021/blob/master/notebooks/chapter_01.ipynb)
+[1. Chapitre 1](https://nbviewer.jupyter.org/github/UM6P/Al-Khwarizmi-Numerical-Analysis-2020-2021/blob/main/notebooks/chapter_01.ipynb)
 
 ## Installation 
 
