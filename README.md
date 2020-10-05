@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UM6P/Al-Khwarizmi-Numerical-Analysis-2020-2021/master)
-
 # Al-Khwarizmi-Numerical-Analysis-2020-2021
 
 Cours d'Analyse Numérique pour la Licence 2A, 2020-2021
